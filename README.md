@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ### I'm Renata Novais!
+<div align="right">
 ![coding-gif](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
+</div>
 
 <p>:computer: studying to become a Full-Stack Developer.</p>
 <p>:heavy_check_mark: CSS, HTML, JavaScript, Jest, ReactJS, Redux, RTL...</p>
