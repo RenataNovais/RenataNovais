@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### I'm Renata Novais!
-<img align="right" alt="coding-gif" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
+<img align="left" alt="coding-gif" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="30%"/>
 <!--
 ![coding-gif](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 -->
