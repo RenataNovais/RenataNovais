@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ### I'm Renata Novais!
-![coding-gif]('https://gph.is/g/apbokm3')
+![coding-gif](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 
-:computer: studying to become a Full-Stack Developer.
-:heavy-check-mark: CSS, HTML, JavaScript, Jest, ReactJS, Redux, RTL...
-:star2: interests in music, netflix and traveling around the world.
+<p>:computer: studying to become a Full-Stack Developer.</p>
+<p>:heavy_check_mark: CSS, HTML, JavaScript, Jest, ReactJS, Redux, RTL...</p>
+<p>:star2: interests in music, netflix and traveling around the world.</p>
 
 #### Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renata-novais/)](https://www.linkedin.com/in/renata-novais/)
