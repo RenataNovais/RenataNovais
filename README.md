@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### I'm Renata Novais!
+![coding-gif]('https://gph.is/g/apbokm3')
+
+:computer: studying to become a Full-Stack Developer.
+:heavy-check-mark: CSS, HTML, JavaScript, Jest, ReactJS, Redux, RTL...
+:star2: interests in music, netflix and traveling around the world.
+
+#### Contact Me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renata-novais/)](https://www.linkedin.com/in/renata-novais/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rnovaiscs@gmail.com)](mailto:rnovaiscs@gmail.com)
 <!--
 **RenataNovais/RenataNovais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
