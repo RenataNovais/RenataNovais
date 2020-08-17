@@ -1,15 +1,13 @@
 ### Hi there 👋
-
-#### I'm Renata Novais!
 <img align="right" alt="coding-gif" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="40%"/>
 <!--
 ![coding-gif](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 -->
-
+#### I'm Renata Novais!
 <p>:computer: Studying to become a Full-Stack Developer.</p>
 <p>:heavy_check_mark: CSS, HTML, JavaScript, Jest, ReactJS, Redux, RTL...</p>
 <p>:star2: Interests in music, movies and traveling around the world.</p>
-<p>🌱 passionate about technology and excited to continue learning more and more...</p>
+<p>🌱 Passionate about technology and excited to continue learning more and more...</p>
 
 <br>
 
