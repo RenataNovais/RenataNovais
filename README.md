@@ -1,7 +1,9 @@
-# Hey, I'm Renata Novais
+# Hey there, welcome to my GitHub!
 <img align="right" alt="coding-gif" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="20%"/>
 
-### Front-end developer, studying to become a Full-Stack developer.
+#### I'm Renata Novais, a Civil Engineer graduate who's transitioning into Software Development.
+
+#### Front-end developer, studying to become a Full-Stack developer.
 
 #### Coding with:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
