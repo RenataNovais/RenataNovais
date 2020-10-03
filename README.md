@@ -1,7 +1,7 @@
 # Hey there, welcome to my GitHub!
 <img align="right" alt="coding-gif" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="20%"/>
 
-#### I'm Renata Novais, a Civil Engineer graduate who's transitioning into Software Development.
+#### I'm Renata Novais, a Civil Engineer who's transitioning into Software Development.
 
 #### Front-end developer, studying to become a Full-Stack developer.
 
